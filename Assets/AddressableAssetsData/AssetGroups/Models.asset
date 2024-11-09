@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Models
+  m_EditorClassIdentifier: 
+  m_GroupName: Models
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7cbbdc4c9631beb47b15bec0772360e9
+  m_SerializeEntries:
+  - m_GUID: 2e00a9c74eb38af41aa4440fc9b530ba
+    m_Address: Assets/AddressableAssets/Items/Cabinet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a948aff2113d521419146b604bdfeb9a
+    m_Address: Assets/AddressableAssets/Items/Chester.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da3503a845230d942b6dd3a6b006f96c
+    m_Address: Assets/AddressableAssets/Items/Chair.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e85694bd842220418df834e99305d4c
+    m_Address: Assets/AddressableAssets/Items/Sofa.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Furnitures
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c108d49df9efcde4a81f43fd94989e28, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e9208cdde0c17054b81a4152a1936483, type: 2}
+    - {fileID: 11400000, guid: 43c620fa74d5a214ea303931f0f5202d, type: 2}
